@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this paper or artifact, cite the Zenodo record."
+title: "A Fail-Safe Exact Kernel for Rational Sphere-Plane CSG with a Machine-Checked Combinatorial Boundary"
+type: article
+authors:
+  - name: "Shikisai Project"
+    affiliation: "Independent research and tools project"
+license: CC-BY-4.0
+date-released: "2026-10-28"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23721477"
+    description: "S4 preprint and paper/data artifact"
